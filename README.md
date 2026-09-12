@@ -101,7 +101,6 @@ Customer-Segmentation/
 ├── Mall_Customers.csv
 ├── customer_segmentation.py
 ├── README.md
-└── requirements.txt
 ```
 
 > Replace `customer_segmentation.py` with the actual name of your Python file if it is different.
